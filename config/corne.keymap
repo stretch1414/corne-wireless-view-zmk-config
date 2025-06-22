@@ -17,7 +17,7 @@
 // |  TAB |  '  |  ,  |  .  |  P  |  Y  |   |  F  |  G  |  C  |  R  |  L  |  \   |
 // | CTRL |  A  |  O  |  E  |  U  |  I  |   |  D  |  H  |  T  |  N  |  S  |  /   |
 // | SHFT |  ;  |  Q  |  J  |  K  |  X  |   |  B  |  M  |  W  |  V  |  Z  | SHFT |
-//                    | GUI | LWR | ENT |   | SPC | RSE | ALT |
+//                    | GUI | ENT | LWR |   | RSE | SPC | ALT |
                         display-name = "Base";
                         bindings = <
    &kp TAB   &kp SQT  &kp COMMA &kp DOT  &kp P &kp Y     &kp F    &kp G  &kp C &kp R &kp L &kp BSLH
